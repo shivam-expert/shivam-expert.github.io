@@ -1,5 +1,5 @@
 # shivam-expert.github.io
-![](image/image2.jpg)
+<img src="image2.jpg")
 ![](image/image3.jpg)
 ![](image/image4.png)
 ![](image/image5.jpg)
