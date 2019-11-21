@@ -1,5 +1,5 @@
 # shivam-expert.github.io
-![ScreenShot](https://github.com/shivam-expert/shivam-expert.github.io/tree/master/image/image2.jpg)
+![ScreenShot](/image/image2.jpg)
 ![](image/image2.jpg)
 ![](image/image3.jpg)
 ![](image/image4.png)
